@@ -1,0 +1,13 @@
+###TODO
+- [ ] Lead send a request about the interesting project
+    - [ ] If the request is pass:
+        - [ ] Lead can find at most 2 members to join and form a group
+        - [ ] The group finds an advisor to supervise the project
+        - [ ] If the advisor agree:
+            - [ ] The group submits a project proposal to the advisor
+            - [ ] If the advisor approves the proposal:
+                - [ ] Do the project
+                - [ ] After having completed the project, the group submit 
+                - [ ] the project report to the advisor
+                - [ ] If the project have no problem:
+                  - [ ] The advisor approves the project
