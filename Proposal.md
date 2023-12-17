@@ -1,17 +1,4 @@
 ###Evaluation steps
-- [ ] the lead send the request about the evaluation
-- [ ] see or not
-    - [ ] If you want to see:
-        - [ ] see what the project is about
-        - [ ] see the project code
-        - [ ] see the project detail
-        - [ ] run the program
-        - [ ] evaluate the project
-        - [ ] check that is it any error
-        - [ ] If the project doesn't have any error:
-            - [ ] send the comment and score to the lead
-        - [ ] else:
-            - [ ] send the comment about what's the problem with this program
-            - [ ] send the score and tell why
-    - [ ] else:
-        - [ ] nothing
+- Admin choose evaluator
+- Evaluator will give a pass or if the project not pass the evaluator will 
+  give not pass

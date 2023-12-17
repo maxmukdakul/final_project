@@ -11,20 +11,19 @@
     - invite the normal faculty to be an advisor
     - have 1 professor for an advisor
     - hand in the project to advisor for evaluate
-    - submit the final project
+    - submit the final project to evaluator
 
 - Member
-    - coding the project
-    - submit the final project
+    - see project status
+    - update project status
 
 - Admin
     - edit database
-    - invite the normal faculty to be an evaluator
+    - choose evaluater
 
-- Normal Faculty
-    - be a supervisor
-    - be an evaluator
+- Faculty
+    - be an advisor
 
-- Advising Faculty
-    - be an evaluator for the other projects that they do not advise
+- Advisor
+    - see status projects
     - approve the projects
