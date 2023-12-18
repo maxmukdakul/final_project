@@ -1,6 +1,7 @@
 # Final project for 2023's 219114/115 Programming I
 database.py
   - in the database i've created def insert and update to make it easier when you want to use the function
+
 project_manage.py
   - in this part I'm gonna tell you how to run the program to create the project
   - first you have to enter username and password of the student who wants to create a project
