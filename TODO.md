@@ -4,6 +4,7 @@
     - read the project details
     - be a member
     - be a lead
+    - accept/deny request
 
 - Lead
     - invite student to be a member
@@ -23,6 +24,8 @@
 
 - Faculty
     - be an advisor
+    - be evaluator
+    - accept/deny request
 
 - Advisor
     - see status projects
