@@ -1,5 +1,4 @@
 # Final project for 2023's 219114/115 Programming I
-* Starting files for part 1
 database.py
   - in the database i've created def insert and update to make it easier when you want to use the function
 project_manage.py
